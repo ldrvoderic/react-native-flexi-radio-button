@@ -21,7 +21,8 @@
     "radio-buttons"
   ],
   "peerDependencies": {
-    "react-native": ">= 0.25"
+    "react-native": ">= 0.25",
+    "prop-types": "*"
   },
   "author": "Watcharachai Kanjaikaew (https://github.com/thegamenicorus)",
   "license": "MIT",
